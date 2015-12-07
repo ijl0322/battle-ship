@@ -22,7 +22,8 @@ S indicates the battle ship
 #The Ship
 
 The ship is vertically or horizontally displayed in the ocean, and is of the length 3.
-SSS
+
+S  S  S
 
 or 
 
