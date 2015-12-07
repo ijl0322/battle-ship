@@ -21,10 +21,19 @@ S indicates the battle ship
 
 #The Ship
 
-The ship is vertically or horizontally displayed in the ocean, and is of the length 3. 
+The ship is vertically or horizontally displayed in the ocean, and is of the length 3.
+SSS
+
+or 
+
+S
+
+S
+
+S
 
 #The Game
-The user player 5 turns in total, and is asked to enter a colum and a row to guess where the ship is. 
+The player has 5 turns in total, and is asked to enter a colum and a row to guess where the ship is. 
 
 The player wins if he/she guesses the location of the ship correctly before the end of 5 turns, and losses otherwise. 
 
